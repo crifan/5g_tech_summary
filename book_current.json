@@ -1,0 +1,19 @@
+{
+  "title": "5G技术概述",
+  "description": "概述5G，以及和4G的对比，整理5G相关组织，技术架构，有哪些应用，以及现状如何，包括中国的应用和苏州的现状。",
+  "pluginsConfig": {
+    "github-buttons": {
+      "buttons": [
+        {
+          "repo": "5g_tech_summary"
+        }
+      ]
+    },
+    "sitemap-general": {
+      "prefix": "https://book.crifan.com/gitbook/5g_tech_summary/website/"
+    },
+    "toolbar-button": {
+      "url": "http://book.crifan.com/books/5g_tech_summary/pdf/5g_tech_summary.pdf"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+# 5G和4G对比
+
+* 相关背景知识
+  * 从1G到5G
+    * ![from_1g_to_5g](../assets/img/from_1g_to_5g.jpg)
+  * 移动通信架构
+    * ![phone_station_communication_arch](../assets/img/phone_station_communication_arch.jpg)
+  * 频谱分布和用途
+    * ![frequency_spectrum_distribution](../assets/img/frequency_spectrum_distribution.jpg)
+    * ![frequency_usage](../assets/img/frequency_usage.jpg)
+* 4G和5G的区别
+  * 基站分布
+    * 图
+      * ![4g_5g_bs_location](../assets/img/4g_5g_bs_location.jpg)
+    * 文字
+      * 4G
+        * 宏基站
+          * ![4g_base_station_macro](../assets/img/4g_base_station_macro.jpg)
+        * 用户体验
+          * ![4g_bs_user_not_average](../assets/img/4g_bs_user_not_average.jpg)
+      * 5G
+        * 微基站
+          * ![5g_base_station_micro_bs](../assets/img/5g_base_station_micro_bs.jpg)
+            * 举例
+              * 中国移动
+                * ![5g_micro_bs_cmcc](../assets/img/5g_micro_bs_cmcc.jpg)
+              * 中兴
+                * ![5g_micro_bs_zte](../assets/img/5g_micro_bs_zte.jpg)
+        * 用户体验
+          * ![5g_bs_user_average_comfortable](../assets/img/5g_bs_user_average_comfortable.jpg)
+  * 频谱占用
+    * ![4g_5g_frequency_use](../assets/img/4g_5g_frequency_use.jpg)
+  * 手机天线对比
+    * ![diff_phone_antenna](../assets/img/diff_phone_antenna.jpg)
+    * ![lte_leta_g5](../assets/img/lte_leta_g5.jpg)
+  * 5G时代，同一基站下的两个用户，如果互相进行通信，他们的数据将不再通过基站转发，而是直接手机到手机
+    * ![5g_same_bs_phone_dirrect](../assets/img/5g_same_bs_phone_dirrect.jpg)
