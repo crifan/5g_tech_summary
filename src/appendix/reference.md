@@ -44,5 +44,6 @@
 * [中国移动5G专区](http://www.10086.cn/5G/bj/indexc.html?WT.ac_id=1904_5GZQ_MO_O_STKHD4)
 * [我国首批14项5G核心标准发布，有利于5G产业加速成熟_通信世界网](http://www.cww.net.cn/article?id=464120)
 * [工业园区 | 园区5G+工业互联网工作推进会即将举办 - 苏州申浪信息科技有限公司](http://www.sl2500.com/news/schd/2020-07-23/531.html)
+* [Qualcomm Future of 5G Building a unified, more capable 5G air interface for the next decade and beyond](https://www.qualcomm.com/media/documents/files/making-5g-nr-a-commercial-reality.pdf)
+* [The-5G-Guide_GSMA_2019_04_29_compressed.pdf](https://www.gsma.com/wp-content/uploads/2019/04/The-5G-Guide_GSMA_2019_04_29_compressed.pdf)
 * 
-
